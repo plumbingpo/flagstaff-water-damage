@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationflagstaff.com/sitemap.xml
